@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamX45
-- 👀 I’m interested in ... Learning how to code and cybersecurity
+- 👀 I’m interested in ... Learning how to code
 - 🌱 I’m currently learning ... HTML &  css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
